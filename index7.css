@@ -1,0 +1,32 @@
+body{
+    background-image: url("FreedomByTheSea.png");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    color: deeppink;
+}
+p{
+    font-weight: bold;
+    font-family: cursive;
+    color: deeppink;
+}
+h2{
+    text-align: center;
+    color: deeppink;
+}
+div{
+    text-align: center;
+    
+}
+.submit{
+    border-color: black;
+    background-color: aqua;
+    color: black;
+}
+.restart{
+    background-color: aqua;
+    color: black;
+    border-color: black;
+}
